@@ -1,0 +1,12 @@
+.van-uploader__preview-image {
+  width: 300px!important;
+  height: 300px!important;
+  border: 1px solid #d8d8d8;
+}
+.van-uploader__upload {
+  width: 300px!important;
+  height: 300px!important;
+  box-sizing: border-box;
+  /* border: 1px dashed #888; */
+  margin-right: 0!important;
+}

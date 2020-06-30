@@ -1,0 +1,8 @@
+.el-checkbox.is-bordered,
+.el-checkbox.is-bordered {
+  margin: 10px;
+}
+.el-timeline-item__timestamp {
+  font-size: 30px!important;
+  color: #27ae60!important;
+}

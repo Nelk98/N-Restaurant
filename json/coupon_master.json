@@ -1,0 +1,5 @@
+{"_id":{"$oid":"5ecab88ac7ce8f0b5e7d7dd5"},"value":{"$numberInt":"1"},"score":{"$numberInt":"10"},"__v":{"$numberInt":"0"},"limit":{"$numberInt":"200"},"rest":{"$numberInt":"0"},"iid":"c001","attain":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ecab8c0ccf9df0b62e884e8"},"value":{"$numberInt":"2"},"score":{"$numberInt":"20"},"__v":{"$numberInt":"0"},"limit":{"$numberInt":"200"},"rest":{"$numberInt":"98"},"iid":"c002","attain":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ece016f5b01e0039cc47573"},"value":{"$numberInt":"5"},"score":{"$numberInt":"50"},"__v":{"$numberInt":"0"},"limit":{"$numberInt":"100"},"rest":{"$numberInt":"76"},"iid":"c005","attain":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ece01815b01e0039cc47574"},"value":{"$numberInt":"10"},"score":{"$numberInt":"100"},"__v":{"$numberInt":"0"},"limit":{"$numberInt":"50"},"rest":{"$numberInt":"0"},"iid":"c010","attain":{"$numberInt":"35"}}
+{"_id":{"$oid":"5ece018c5b01e0039cc47575"},"value":{"$numberInt":"20"},"score":{"$numberInt":"200"},"__v":{"$numberInt":"0"},"limit":{"$numberInt":"20"},"rest":{"$numberInt":"16"},"iid":"c020","attain":{"$numberInt":"98"}}
