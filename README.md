@@ -1,4 +1,4 @@
-# Vue-Restaurant
+# N-Restaurant
 
 基于Vue和Node的毕业设计项目，实现点餐、订单管理、菜单管理、评论、店铺管理等功能。
 
@@ -38,23 +38,7 @@ npm run build
 
 pc端、后台管理系统前端部分。
 
-项目起步
 
-```shell
-npm install
-```
-
-开发时编译
-
-```shell
-npm run serve
-```
-
-打包输出
-
-```shell
-npm run build
-```
 
 
 
@@ -62,23 +46,7 @@ npm run build
 
 基于Node、mongoDB的系统后台。
 
-项目起步
 
-```shell
-npm install
-```
-
-开发时编译
-
-```shell
-npm run dev
-```
-
-打包输出
-
-```shell
-npm run build
-```
 
 
 
