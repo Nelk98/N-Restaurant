@@ -14,23 +14,6 @@ http://manage.nelk.xyz （pc端）
 
 移动端、顾客点餐系统前端部分。
 
-项目起步
-
-```shell
-npm install
-```
-
-开发时编译
-
-```shell
-npm run serve
-```
-
-打包输出
-
-```shell
-npm run build
-```
 
 
 
